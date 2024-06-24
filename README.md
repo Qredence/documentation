@@ -1,19 +1,31 @@
-# Mintlify Starter Kit
+# AgenticFleet
 
-Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
+AgenticFleet is an adaptive multi-agent system designed to provide robust and scalable solutions for complex tasks. This documentation will guide you through the setup, usage, and customization of AgenticFleet.
 
-- Guide pages
-- Navigation
-- Customizations
-- API Reference pages
-- Use of popular components
+## Table of Content
+- Introduction
+- Installation
+- Configuration
+- Usage
+- API Reference
+- Contributing
+- License
+- Introduction
 
-### Development
 
-Install the [Mintlify CLI](https://www.npmjs.com/package/mintlify) to preview the documentation changes locally. To install, use the following command
+AgenticFleet is designed to handle complex tasks by leveraging multiple agents that can adapt to changing environments. Each agent operates independently but can communicate and collaborate with other agents to achieve common goals.
+
+
+## Development
+
+Install the 
+
+
+Installation
+To install AgenticFleet, you need to have Python 3.7+ installed. You can install AgenticFleet using pip:
 
 ```
-npm i -g mintlify
+pip install agenticfleet  
 ```
 
 Run the following command at the root of your documentation (where mint.json is)
