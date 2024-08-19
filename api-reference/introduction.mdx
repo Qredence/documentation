@@ -1,33 +1,91 @@
----
-title: 'Introduction'
-description: 'Example section for showcasing API endpoints'
----
+Graphfleet Python API Library
+The Graphfleet Python library provides convenient access to the Graphfleet REST API from any Python 3.7+ application. The library includes type definitions for all request params and response fields, and offers both synchronous and asynchronous clients powered by httpx.
 
-<Note>
-  If you're not looking to build API reference documentation, you can delete
-  this section by removing the api-reference folder.
-</Note>
+Documentation
+The REST API documentation can be found on docs.agenticfleet.com.
 
-## Welcome
+Installation
+pip install git+ssh://git@github.com/stainless-sdks/graphfleet-python.git
+Note
 
-There are two ways to build API documentation: [OpenAPI](https://mintlify.com/docs/api-playground/openapi/setup) and [MDX components](https://mintlify.com/docs/api-playground/mdx/configuration). For the starter kit, we are using the following OpenAPI specification.
+Once this package is published to PyPI, this will become: pip install --pre graphfleet
 
-<Card
-  title="Plant Store Endpoints"
-  icon="leaf"
-  href="https://github.com/mintlify/starter/blob/main/api-reference/openapi.json"
->
-  View the OpenAPI specification file
-</Card>
+Usage
+from graphfleet import Graphfleet
 
-## Authentication
+client = Graphfleet()
 
-All API endpoints are authenticated using Bearer tokens and picked up from the specification file.
+health_retrieve_response = client.health.retrieve(
+    ocp_apim_subscription_key="Ocp-Apim-Subscription-Key",
+)
 
-```json
-"security": [
-  {
-    "bearerAuth": []
-  }
-]
-```
+
+
+client.shared
+Response types
+
+
+
+
+client.data
+
+
+
+client.index
+
+
+
+client.index.status
+
+
+client.index.config
+
+
+
+client.config.index.prompts
+
+
+
+client.query
+
+
+client.sources
+
+
+
+client.sources.reports
+
+
+
+client.sources.texts
+
+
+
+client.sources.entities
+
+
+
+client.sources.claims
+
+
+
+client.sources.relationships
+
+
+client.graph_operations
+
+
+
+client.graph_operations.graphml
+
+
+
+client.graph_operations.stats
+
+
+
+client.experimental_operations
+
+
+
+client.health
