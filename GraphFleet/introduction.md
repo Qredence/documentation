@@ -64,6 +64,7 @@ This guide provides a quick and easy way to get started with GraphFleet.
 
 **Make sure to have your data indexed and ready !**
 
+
 ## Next Steps
 
 - Explore the Streamlit UI to perform searches, generate questions, and manage settings.
