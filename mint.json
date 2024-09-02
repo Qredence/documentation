@@ -8,8 +8,8 @@
     },
     "favicon": "/favicon.svg",
     "colors": {
-        "primary": "#0A84FF",
-        "light": "#007AFF",
+        "primary": "#262626",
+        "light": "#262626",
         "dark": "#0A84FF",
         "anchors": {
             "from": "#0D9373",
@@ -43,11 +43,7 @@
             "icon": "discord",
             "url": "https://discord.gg/BD8MPgzEJc"
         },
-        {
-            "name": "Blog",
-            "icon": "newspaper",
-            "url": "https://mintlify.com/blog"
-        }
+        
     ],
     "navigation": [
         {
@@ -85,8 +81,8 @@
         }
     ],
     "footerSocials": {
-        "x": "https://x.com/mintlify",
-        "github": "https://github.com/mintlify",
-        "linkedin": "https://www.linkedin.com/company/mintsearch"
+        "x": "https://x.com/agenticfleet",
+        "github": "https://github.com/qredence",
+        "linkedin": "https://www.linkedin.com/company/qredence"
     }
 }
