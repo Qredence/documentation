@@ -58,7 +58,10 @@ This guide provides a quick and easy way to get started with GraphFleet.
    ```
 
 2. **Access the Streamlit UI:**
-   - Open your web browser and navigate to `http://localhost:8000`.
+```bash
+   streamlit run app/streamlit_app.py   
+   ```
+
 
 ## Next Steps
 
