@@ -58,9 +58,11 @@ This guide provides a quick and easy way to get started with GraphFleet.
    ```
 
 2. **Access the Streamlit UI:**
-```bash
-   streamlit run app/streamlit_app.py   
-   ```
+    ```bash
+   streamlit run app/streamlit_app.py  
+    ```
+
+**Make sure to have your data indexed and ready !**
 
 
 ## Next Steps
