@@ -1,0 +1,32 @@
+# User Privacy
+
+**Article 6 - Data Collection and Use**
+
+Qredence SAS **does not collect any user information** beyond what is necessary for providing the services offered. This includes your name and email address for account creation and communication purposes. We do not share this information with third parties, except as required by law.
+
+**Article 7 - Third-Party Services**
+
+Qredence utilizes the following third-party services:
+
+- **Stripe:** For secure payment processing. Stripe's privacy policy governs their handling of your payment information.
+- **Microsoft Clarity:** For website analytics to improve user experience. No personal data is collected by Qredence through Clarity. Microsoft Clarity's privacy policy governs their data collection practices.
+- **Cloudflare:** For website security and performance optimization. Cloudflare's privacy policy governs their data collection practices.
+- **Webstudios & Azure:** (Specify how these services are used and link to their respective privacy policies if applicable).
+
+**Article 8 - Cookies**
+
+Qredence may use cookies to enhance platform functionality and user experience. You can manage your cookie preferences through your browser settings.
+
+**Article 9 - Changes to this Privacy Policy**
+
+Qredence SAS reserves the right to modify this privacy policy at any time. Changes will be posted on this page, and your continued use of the platform constitutes acceptance of the updated policy.
+
+This revised version provides more detail, clarifies service offerings, addresses intellectual property and liability, and strengthens the user privacy section. Remember to replace the placeholder address and RCS number with your actual information. You should also consult with a legal professional to ensure these terms are fully compliant with French law and your specific business practices.
+
+[ISO 27001 Certificate](https://pub-6e99193555c24ae3a2eef24f684d75dd.r2.dev/Resiliency%20Report%20Nov%2019%202023.pdf)
+
+[CSA STAR Certificate Award 5.9.2024](https://pub-6e99193555c24ae3a2eef24f684d75dd.r2.dev/CSA%20STAR%20Certificate%20Award%205.9.2024.pdf)
+
+[SOC Type 2 ISAE Report July 2](https://pub-6e99193555c24ae3a2eef24f684d75dd.r2.dev/SOC%20Type%202%20ISAE%20Report%20July%202.pdf)
+
+[Stripe 2023 SOC 3](https://pub-6e99193555c24ae3a2eef24f684d75dd.r2.dev/Stripe%202023%20SOC%203.pdf)
