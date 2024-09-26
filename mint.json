@@ -70,6 +70,13 @@
             "pages": [
                 "api-reference/introduction"
             ]
+        }, 
+        {
+            "group": "Legals",
+            "pages": [
+                "Legal/terms",
+                "Legal/user-privacy"
+            ]
         },
         {
             "group": "Endpoint Examples",
